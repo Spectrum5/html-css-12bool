@@ -22,14 +22,35 @@ h1 {
     font-size: 1.3rem;
 }
 
+h2 {
+    font-size: 1.2rem;
+}
+
 .margin-bottom {
     margin-bottom: 20px;
 }
 
 .box-size {
-    height: 100px;
+    padding: 59px;
+}
+
+
+.middle {
+    align-self: center;
+}
+
+.bottom {
+    align-self: flex-end;
 }
 
 .flex {
     display: flex;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: space-between;
 }
