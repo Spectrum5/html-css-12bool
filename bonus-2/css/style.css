@@ -1,0 +1,31 @@
+/* ********** REGOLE GENERALI ********** */
+
+.box {
+    width: 100%;
+    padding: 20px;
+    background-color: #006CFA;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
+
+.box-nested {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 1.3rem;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.box-size {
+    height: 60px;
+}
