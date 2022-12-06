@@ -18,6 +18,14 @@
     align-items: center;
 }
 
+h1 {
+    font-size: 1.3rem;
+}
+
 .margin-bottom {
     margin-bottom: 20px;
+}
+
+.box-size {
+    height: 60px;
 }
